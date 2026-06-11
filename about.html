@@ -368,7 +368,7 @@
     </svg>
   </button>
   
-  <button class="phone-header-btn" data-phone="[business_phone]" aria-label="Call">
+  <button class="phone-header-btn" data-phone="+972535356507" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
@@ -838,7 +838,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '+972535356507';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -1105,14 +1105,14 @@
         <ul class="footer-contact">
           <li>
             <span class="contact-icon"><i class="fas fa-envelope"></i></span>
-            <span class="contact-text"><a href="mailto:[business_email]">[business_email]</a></span>
+            <span class="contact-text"><a href="mailto:dwdrplwb32@gmail.com">dwdrplwb32@gmail.com</a></span>
           </li>
           <li>
             <span class="contact-icon"><i class="fas fa-phone"></i></span>
-            <span class="contact-text"><a href="tel:[business_phone]">[business_phone]</a></span>
+            <span class="contact-text"><a href="tel:+972535356507">+972535356507</a></span>
           </li>
           <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
-            <span class="contact-text">[business_address]</span></a></li>
+            <span class="contact-text">אבא ברדיצב 14, באר שבע, דרום, ישראל</span></a></li>
         </ul>
       </div>
 
@@ -1120,9 +1120,13 @@
       <div class="footer-col footer-hours-col">
         <h4>שעות פעילות</h4>
         <ul class="footer-hours">
-          <li><a href="/"><span class="hours-day">ימים א'–ה'</span> <span class="hours-time">09:00–18:00</span></a></li>
-          <li><a href="/"><span class="hours-day">יום ו'</span> <span class="hours-time">09:00–13:00</span></a></li>
-          <li><a href="/"><span class="hours-day">שבת</span> <span class="hours-time">סגור</span></a></li>
+          <li><a href="/"><span class="hours-day">יום ראשון</span>&nbsp;<span class="hours-time">09:00 - 17:00</span></a></li>
+          <li><a href="/"><span class="hours-day">יום שני</span>&nbsp;<span class="hours-time">09:00 - 17:00</span></a></li>
+          <li><a href="/"><span class="hours-day">יום שלישי</span>&nbsp;<span class="hours-time">09:00 - 17:00</span></a></li>
+          <li><a href="/"><span class="hours-day">יום רביעי</span>&nbsp;<span class="hours-time">09:00 - 17:00</span></a></li>
+          <li><a href="/"><span class="hours-day">יום חמישי</span>&nbsp;<span class="hours-time">09:00 - 17:00</span></a></li>
+          <li><a href="/"><span class="hours-day">יום שישי</span>&nbsp;<span class="hours-time">סגור</span></a></li>
+          <li><a href="/"><span class="hours-day">יום שבת</span>&nbsp;<span class="hours-time">סגור</span></a></li>
         </ul>
       </div>
 
@@ -1159,7 +1163,7 @@
   </div>
 </footer>
   
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
+  <a href="https://wa.me/+972535356507" class="whatsapp-float" aria-label="WhatsApp">
     <i class="fab fa-whatsapp"></i>
   </a>
   
