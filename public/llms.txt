@@ -1,0 +1,103 @@
+# צלילים למכירה — Generative Engine Optimization Map
+
+> An online platform dedicated to selling songs, likely targeting music lovers, fans, or content creators looking to purchase individual tracks or music collections. The site revolves around digital music commerce.
+
+---
+
+## Pages
+
+### בית
+https://-ad77600f.zappy5.app
+חנות מוזיקה אונליין למכירת שירים להורדה מיידית. מצא את הפסקול המושלם לאירוע, פרויקט או הנאה אישית. קניית שירים דיגיטליים מעולם לא הייתה קלה ומשתלמת יותר — התחל להאזין עכשיו!
+
+### תכונות
+https://-ad77600f.zappy5.app/features
+גלה את התכונות המתקדמות שמאפשרות לך לסנן, להשוות ולרכוש שירים במהירות. מכירת שירים חכמה עם תצוגה מקדימה, איכות שמע גבוהה והמלצות מותאמות אישית — קח שליטה על ספריית המוזיקה שלך.
+
+### אודות
+https://-ad77600f.zappy5.app/about
+הכירו את האנשים והחזון שמאחורי פלטפורמת מכירת השירים המובילה. אנחנו מחברים בין יוצרים לאוהבי מוזיקה, ומציעים חוויית קניית שירים דיגיטליים הוגנת, מהירה ומרגשת — בואו להיות חלק מהמהפכה המוזיקלית.
+
+### צור קשר
+https://-ad77600f.zappy5.app/contact
+יש שאלה לגבי קניית שירים דיגיטליים או צורך מיוחד? צור קשר לקבלת תמיכה מהירה, ייעוץ בבחירת שירים להורדה לאירועים, או כל בקשה אחרת — צוות המומחים שלנו כאן כדי לעזור לך למצוא את הצליל המושלם.
+
+### Products
+https://-ad77600f.zappy5.app/products
+המוצרים שלנו - צלילים למכירה
+
+### Cart
+https://-ad77600f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-ad77600f.zappy5.app/checkout
+תשלום
+
+### Login
+https://-ad77600f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-ad77600f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-ad77600f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-ad77600f.zappy5.app/product/:slug
+פרטי המוצר - צלילים למכירה
+
+### Category
+https://-ad77600f.zappy5.app/category/:slug
+מוצרים - צלילים למכירה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ad77600f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ad77600f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ad77600f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About צלילים למכירה
+An online platform dedicated to selling songs, likely targeting music lovers, fans, or content creators looking to purchase individual tracks or music collections. The site revolves around digital music commerce.
+
+## Services/Products
+- מכירת שירים
+
+## Target Audience
+- אספני מוזיקה דיגיטלית
+- מוזיקאים עצמאיים
+- מתכנני אירועים
+
+## Industry
+Music / Digital Content Sales
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ad77600f.zappy5.app/sitemap.xml
+- Robots: https://-ad77600f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ad77600f.zappy5.app/llms-full.txt
+- Products (JSON): https://-ad77600f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-ad77600f.zappy5.app/product-feed.xml
