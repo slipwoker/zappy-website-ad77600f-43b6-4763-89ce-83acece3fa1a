@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-ad77600f.zappy5.app
+https://example.com
 חנות מוזיקה אונליין למכירת שירים להורדה מיידית. מצא את הפסקול המושלם לאירוע, פרויקט או הנאה אישית. קניית שירים דיגיטליים מעולם לא הייתה קלה ומשתלמת יותר — התחל להאזין עכשיו!
 
 ### תכונות
-https://-ad77600f.zappy5.app/features
+https://example.com/features
 גלה את התכונות המתקדמות שמאפשרות לך לסנן, להשוות ולרכוש שירים במהירות. מכירת שירים חכמה עם תצוגה מקדימה, איכות שמע גבוהה והמלצות מותאמות אישית — קח שליטה על ספריית המוזיקה שלך.
 
 ### אודות
-https://-ad77600f.zappy5.app/about
+https://example.com/about
 הכירו את האנשים והחזון שמאחורי פלטפורמת מכירת השירים המובילה. אנחנו מחברים בין יוצרים לאוהבי מוזיקה, ומציעים חוויית קניית שירים דיגיטליים הוגנת, מהירה ומרגשת — בואו להיות חלק מהמהפכה המוזיקלית.
 
 ### צור קשר
-https://-ad77600f.zappy5.app/contact
+https://example.com/contact
 יש שאלה לגבי קניית שירים דיגיטליים או צורך מיוחד? צור קשר לקבלת תמיכה מהירה, ייעוץ בבחירת שירים להורדה לאירועים, או כל בקשה אחרת — צוות המומחים שלנו כאן כדי לעזור לך למצוא את הצליל המושלם.
 
 ### Products
-https://-ad77600f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - צלילים למכירה
 
 ### Cart
-https://-ad77600f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-ad77600f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-ad77600f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-ad77600f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-ad77600f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-ad77600f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - צלילים למכירה
 
 ### Category
-https://-ad77600f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - צלילים למכירה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-ad77600f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-ad77600f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-ad77600f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -96,8 +96,8 @@ Music / Digital Content Sales
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-ad77600f.zappy5.app/sitemap.xml
-- Robots: https://-ad77600f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-ad77600f.zappy5.app/llms-full.txt
-- Products (JSON): https://-ad77600f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-ad77600f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
